@@ -92,7 +92,7 @@ Problems span across core DSA topics including (but not limited to):
 ## Connect
 
 - 🌐 NeetCode Profile: [neetcode.io/profile/Prasanna-KS-85](https://neetcode.io/profile/Prasanna-KS-85)
-- 💼 LinkedIn: [linkedin.com/in/prasannaks](https://linkedin.com/in/prasannaks)
+- 💼 LinkedIn: [linkedin.com/in/prasannaks](https://www.linkedin.com/in/prasanna-kumar-k-s/)
 - 🐙 GitHub: [@Prasanna-KS-85](https://github.com/Prasanna-KS-85)
 
 ---
