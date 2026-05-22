@@ -1,11 +1,11 @@
-# 🧠 NeetCode Solutions — Prasanna Kumar K S
+# NeetCode Solutions — Prasanna Kumar K S
 
 > A personal archive of my solutions to curated coding interview problems on [NeetCode.io](https://neetcode.io), automatically synced via GitHub.  
 > Solving consistently. Thinking clearly. Getting better every day.
 
 ---
 
-## 👤 About
+## About
 
 This repository belongs to **Prasanna Kumar K S** ([@Prasanna-KS-85](https://neetcode.io/profile/Prasanna-KS-85)), an M.Tech Data Science student with a strong interest in algorithms, AI systems, and building things that matter.
 
@@ -13,7 +13,7 @@ I use NeetCode as my primary structured prep platform — working through proble
 
 ---
 
-## 📌 What This Repo Is
+## What This Repo Is
 
 A **living collection** of all the NeetCode problems I've solved — organized by topic, automatically pushed here on every accepted submission via NeetCode's GitHub Sync.
 
@@ -21,7 +21,7 @@ This isn't a tutorial or a cheatsheet. It's a personal log of my problem-solving
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 Solutions are organized by topic folder and problem slug:
 
@@ -42,7 +42,7 @@ Data Structures & Algorithms/binary-search/submission-0.py
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 
 Problems span across core DSA topics including (but not limited to):
 
@@ -61,21 +61,17 @@ Problems span across core DSA topics including (but not limited to):
 
 ---
 
-## 💻 Languages Used
+## Languages Used
 
 | Language   | Extension |
 |------------|-----------|
 | Python     | `.py`     |
-| JavaScript | `.js`     |
-| TypeScript | `.ts`     |
-| Java       | `.java`   |
-| C++        | `.cpp`    |
 
 > Primary language: **Python**
 
 ---
 
-## ⚙️ How GitHub Sync Works
+## How GitHub Sync Works
 
 1. I connect my GitHub account on [neetcode.io/profile/github](https://neetcode.io/profile/github)
 2. Every accepted submission auto-commits to this repo
@@ -84,7 +80,7 @@ Problems span across core DSA topics including (but not limited to):
 
 ---
 
-## 📈 Goals
+## Goals
 
 - [ ] Complete the NeetCode 150
 - [ ] Solve at least one problem daily
@@ -93,7 +89,7 @@ Problems span across core DSA topics including (but not limited to):
 
 ---
 
-## 🔗 Connect
+## Connect
 
 - 🌐 NeetCode Profile: [neetcode.io/profile/Prasanna-KS-85](https://neetcode.io/profile/Prasanna-KS-85)
 - 💼 LinkedIn: [linkedin.com/in/prasannaks](https://linkedin.com/in/prasannaks)
